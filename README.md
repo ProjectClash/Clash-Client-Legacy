@@ -1,3 +1,23 @@
+# Clash-Client-Legacy
+
+English · [简体中文](README.zh-CN.md)
+
+[![Active repository](https://img.shields.io/badge/ProjectClash-Active_repository-2563EB?logo=github)](https://github.com/ProjectClash/Clash-Client)
+[![Website](https://img.shields.io/badge/Website-Official-2563EB)](https://clash.md/)
+[![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/app/id6794257189)
+
+> [!IMPORTANT]
+> **Development has moved to [Clash-Client](https://github.com/ProjectClash/Clash-Client).**
+>
+> This is the historical repository formerly located at `TokenPLS/Hako-Client`, transferred to ProjectClash on October 10, 2026. It is retained as an archive and will receive no further code updates or releases.
+>
+> Use the active repository for current source, build instructions, releases and [new issues](https://github.com/ProjectClash/Clash-Client/issues). Outstanding reports have been transferred with their discussions; their original issue links redirect to the new locations.
+
+Historical commits, contributor attribution, branches, tags, releases and download assets are retained. Stars and fork relationships remain attached to this historical repository. Earlier names and build instructions below describe the historical version, not the current project.
+
+<details>
+<summary>Historical README</summary>
+
 # Clash for Apple Platforms
 
 English · [简体中文](README.zh-CN.md)
@@ -84,3 +104,5 @@ Kernel issues can be reported in [Hako](https://github.com/TokenPLS/Hako/issues)
 ## License
 
 [GPL-3.0](LICENSE). Third-party resource licenses remain with their resources.
+
+</details>
